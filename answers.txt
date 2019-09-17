@@ -1,4 +1,12 @@
 What is a gitignore file and what should it include for a Java project?
+gitignore file is a file that git uses to document which file should be avoided while committing.
+normally, .class file and package files should be included in gitignore for Java project.
+
 What does fast-forward in Git mean?
+one branch completely includes the other(master) branch.
+
 Why should you have different branches?
+It can keep the master branch safe when we experiment on other branches.
+
 In a project how many remote Git repositories do you usually have?
+one
